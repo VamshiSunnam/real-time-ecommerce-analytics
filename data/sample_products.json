@@ -1,0 +1,12 @@
+[
+    {"id": "P001", "name": "Wireless Bluetooth Headphones", "price": 79.99, "category": "Electronics"},
+    {"id": "P002", "name": "Organic Cotton T-Shirt", "price": 24.99, "category": "Clothing"},
+    {"id": "P003", "name": "Stainless Steel Water Bottle", "price": 19.99, "category": "Home & Kitchen"},
+    {"id": "P004", "name": "LED Desk Lamp", "price": 45.99, "category": "Home & Garden"},
+    {"id": "P005", "name": "Yoga Mat Premium", "price": 34.99, "category": "Sports & Outdoors"},
+    {"id": "P006", "name": "Smartphone Case", "price": 12.99, "category": "Electronics"},
+    {"id": "P007", "name": "Coffee Mug Set", "price": 29.99, "category": "Home & Kitchen"},
+    {"id": "P008", "name": "Running Shoes", "price": 89.99, "category": "Sports & Outdoors"},
+    {"id": "P009", "name": "Notebook Set", "price": 15.99, "category": "Office Supplies"},
+    {"id": "P010", "name": "Portable Charger", "price": 39.99, "category": "Electronics"}
+]
