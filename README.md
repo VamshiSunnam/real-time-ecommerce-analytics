@@ -82,7 +82,7 @@ The system is composed of modular services, each responsible for a different par
 ### ① Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/real-time-ecommerce-analytics.git
+git clone (https://github.com/VamshiSunnam/real-time-ecommerce-analytics.git)
 cd real-time-ecommerce-analytics
 ```
 
